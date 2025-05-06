@@ -1,6 +1,6 @@
-# GitHub Agent with Google ADK and OpenAPI Tools
+# GitHub Agent with Google ADK and OpenAPI Tools using Gemini 2.5 Pro
 
-A powerful GitHub automation agent built using Google's Agent Development Kit (ADK) and OpenAPI Specification tools that provides a natural language interface to GitHub's REST API.
+A GitHub gent built using Google's Agent Development Kit (ADK) and OpenAPI Specification tools that provides a natural language interface to GitHub's REST API using Google Gemini 2.5 Pro
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ A powerful GitHub automation agent built using Google's Agent Development Kit (A
 
 ## Introduction
 
-This project demonstrates how to build an AI-powered GitHub agent using Google's [Agent Development Kit (ADK)](https://google.github.io/adk-docs/) and OpenAPI integration. The agent leverages the GitHub REST API through an OpenAPI specification to perform various GitHub operations via natural language commands.
+This project demonstrates how to build an GitHub agent using Google's [Agent Development Kit (ADK)](https://google.github.io/adk-docs/) and OpenAPI integration. The agent leverages the GitHub REST API through an OpenAPI specification to perform various GitHub operations via natural language commands.
 
 Agent Development Kit (ADK) supports a wide range of tool integrations for building agents, including Function tools, Built-in tools, Third party tools, Google Cloud Tools, MCP Tools, and OpenAPI tools with support for Authentication. This project focuses on how to integrate REST APIs using OpenAPI specification, eliminating the need to manually define individual function tools for each API endpoint.
 
