@@ -169,7 +169,6 @@ This section provides a step-by-step guide to setting up and using the GitHub ag
 Run the agent from the github-agent directory:
 
 ```bash
-cd github-agent
 adk web
 ```
 
@@ -215,7 +214,7 @@ The GitHub agent is built using the following key components from ADK:
 
 Try interacting with the agent using natural language commands like:
 - "List my repositories"
-- "Create a new repository named test-repo"
+- "Create a new repository named adk-test-repo as private"
 - "Create a new issue in repository X titled 'Feature request'"
 - "What are the open pull requests in my repositories?"
 
